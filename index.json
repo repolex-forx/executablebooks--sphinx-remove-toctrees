@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "sphinx-remove-toctrees",
+  "versions": [
+    {
+      "commit": "07a98640c03f767b18c65b7004208b4ae10c7359",
+      "tag": "v1.0.0.post1",
+      "parsed_at": "2026-10-21T21:42:58.296820+00:00"
+    }
+  ]
+}
