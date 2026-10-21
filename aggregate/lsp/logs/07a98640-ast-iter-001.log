@@ -1,0 +1,7 @@
+[2026-10-21T21:41:19Z] === AST ITERATION 1 START | repo=executablebooks/sphinx-remove-toctrees sha=07a98640 ===
+[2026-10-21T21:41:19Z] [iter=1] PHASE START: ast repo=executablebooks/sphinx-remove-toctrees sha=07a98640
+[2026-10-21T21:41:19Z] [iter=1] Building AST aggregate chunks
+[2026-10-21T21:41:20Z] [iter=1] AST chunks built count=1 triples=8159
+[2026-10-21T21:41:20Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/07a98640c03f767b18c65b7004208b4ae10c7359/.complete
+[2026-10-21T21:41:20Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-10-21T21:41:20Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
