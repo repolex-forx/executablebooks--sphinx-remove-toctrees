@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/sphinx-remove-toctrees/commit/07a98640c03f767b18c65b7004208b4ae10c7359",
       "git:hexsha": "07a98640c03f767b18c65b7004208b4ae10c7359",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.0.0.post1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.0.0.post1",
+      "repolex:parsedAt": "2026-10-21T21:42:58.296359+00:00"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/sphinx-remove-toctrees/commit/2c54d9f1af26a89b6f1857caf7ae14a1350f8275",
